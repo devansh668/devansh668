@@ -35,4 +35,4 @@ My goal is to grow as a **Data Scientist and Data Analyst**, building reliable a
 ## 🤝 Let's Connect
 
 - **GitHub:** [devansh668](https://github.com/devansh668)
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** https://www.linkedin.com/in/devansh-khanna-5aba6a403/?isSelfProfile=true.
